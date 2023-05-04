@@ -112,5 +112,5 @@ for full_path in queue:
 
 # Send message
 puts(bg.CYAN, "Sending...\n")
-# server.send_message(message)
+server.send_message(message)
 puts(bg.GREEN, "Succeed!! Terminating...\n")
