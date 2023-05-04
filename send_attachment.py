@@ -1,5 +1,5 @@
 # /**
-#  *    project: Send Attachment through Email by command line
+#  *    project: Send attachments through Email by command line interface (CLI)
 #  *     author: brownfox2k6
 #  *    created: 27/04/2023 18:31:34 Hanoi, Vietnam
 # **/
