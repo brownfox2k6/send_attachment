@@ -35,8 +35,8 @@ to_MB = lambda x: round(x / 1048576, ndigits=2)
 colorama_init(wrap=True)
 
 # Define username & password (directly)
-USERNAME = "brfox2k6@gmail.com"
-PASSWORD = "tsdlufmldorjhsaj"
+USERNAME = ""
+PASSWORD = ""
 
 # Initialize SMTP Gmail server
 puts(bg.CYAN, "Initializing SMTP Gmail server...\n")
