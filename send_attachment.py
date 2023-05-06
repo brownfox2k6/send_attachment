@@ -159,7 +159,7 @@ puts(bg.YELLOW, "Type 'y' or 'Y' to send: ")
 if input().strip().lower() == 'y':
     try:
         puts(bg.CYAN, "Sending...\n")
-        # server.send_message(message)
+        server.send_message(message)
         puts(bg.GREEN, "Succeed!! Terminating...\n")
     except Exception as error:
         puts(bg.RED, f"{error}\n")
